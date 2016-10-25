@@ -1,0 +1,32 @@
+body {background: #fcfffe; margin: 0px; padding: 0px}
+.wrapper {width: 80%; margin: 0 auto;}
+.head {background: #1d2120; padding: 1px; color: #fcfffe; }
+.logo ul {list-style: none;margin:1; padding-bottom:15px; padding-top: 15px}
+.logo ul li {position: relative;float: left;padding-left: 50px}
+.square {padding-left: 125px}
+.square1 {color: #0fc7d8}
+.logo ul li a {text-decoration: none; color: #0fc7d8}
+.header {background: #fcfffe; padding: 0px; margin:0px;}
+.header img {height: 100px; width: 100px; float: left;}
+.smkn {text-decoration: none; float: left; padding-top: 35px; color: #424b4c}
+.header ul  {list-style: none; margin: 0;padding:0;text-align: center;}
+.header a {font-size: 15px}
+.header ul li {position: relative; float: left;padding-left: 3px; }
+.header ul li a {padding: 35px 23px; display: block; text-decoration: none; color: #000000; transition: all .3s ease; text-align: left;}
+.header ul li a:hover {background: #fcfffe; color: #0d7d87}
+.header ul ul {position: absolute; background:#0f1412; color: #FFF6ED; width: 300px; visibility: hidden;opacity: 0;transition: all .5 ease;}
+.header ul ul ul {left: 100%;top: 0;background: #0f1412; color: #FFF6ED; width: 125px}
+.header ul ul ul li a {background: #0f1412; text-align: left;}
+.header ul ul li a {color: #FFF6ED}
+.header ul ul li a:hover {color: #22C790; background: #022318}
+.header li li {float: none;}
+.header li:hover > ul {opacity: 1; visibility: visible; background-size: }
+.clear {clear: both;}
+.nav {background: #1d2120; margin-top: 500px; height: 250px }
+.navigasi {  width: 30%; margin:1px;float: left; background: #1d2120}
+.nav ul {list-style: none; text-align: left;}
+.nav ul li {float: none; }
+.nav ul li a {display: block;text-decoration: none; color: #7d8985;}
+.nav h4 {text-align: center; color: #f4fffb}
+.nav iframe {padding-left: 10px}
+.img img {width: 100%}
